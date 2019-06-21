@@ -253,10 +253,12 @@ method="post" target="hidden_iframe" onsubmit="submitted=true;">
   });
 </script>
 
-<div id="vk_comments"></div>
+<div class='d-flex justify-content-center mt-4 mb-4' id='container-for-vk'>
+<div id="vk_comments" class='col-md-6'></div>
 <script type="text/javascript">
 VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"});
 </script>
+</div>
 
 
 
