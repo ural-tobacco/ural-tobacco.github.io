@@ -2,6 +2,13 @@ body {
     padding-top: 56px;
 }
 
+@media screen and (max-width: 767px) {
+
+#main-heading {
+font-size:4rem;
+}
+}
+
 .navbar {
 	background-color: red;
 }
@@ -43,7 +50,9 @@ h2 {
 	padding-bottom:1rem;
 }
 
+.card-img-top {
 
+}
 
 .container-for-form {
 
