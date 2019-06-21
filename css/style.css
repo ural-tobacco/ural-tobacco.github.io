@@ -1,0 +1,121 @@
+body {
+    padding-top: 56px;
+}
+
+.navbar {
+	background-color: red;
+}
+
+.jumbotron {
+    background: center -40px no-repeat url("background.jpg");
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+
+.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+
+#contact {
+    background: url("contact.jpg") no-repeat center;
+}
+
+h1 {
+/*background:rgba(198, 0, 99, 0.8);*/
+width:auto;
+
+padding:0.5rem;
+font-weight: bold;
+}
+
+#text-under-h1 {
+/*background-color:rgba(0, 105, 217, 0.8);*/
+color:gray;
+padding:0.5rem;
+text-shadow: 1px 1px 0px black;
+}
+
+h2 {
+	padding-bottom:1rem;
+}
+
+.card-img-top {
+
+}
+
+.container-for-form {
+
+
+
+}
+
+
+#container-for-about {
+
+
+}
+
+.form-group {
+	text-align:left;
+
+}
+
+#second, #one {
+
+}
+
+#one {
+
+}
+
+#important-quote {
+	font-style: italic;
+	border-top:1px solid #C60063;
+	border-bottom:1px solid #C60063;
+	text-align: center;
+	display:inline-block;
+	padding:1rem 3rem;
+	font-size:2rem;
+	margin:2rem 0;
+}
+
+
+#signature {
+	font-style: italic;
+	text-align: right;
+	margin-top:2rem;
+}
+
+
+.aboutus-banner img {
+
+}
+
+#services {
+
+}
+
+input, textarea {
+	width:100%;
+
+}
+
+
+
+
+.container-for-pop-up {
+	display:flex;
+	justify-content:center;
+}
+
+#pop-up-message {
+	display:flex;
+	justify-content:center;
+	font-size:2rem;
+
+}
+
